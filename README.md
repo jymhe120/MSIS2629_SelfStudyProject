@@ -63,15 +63,14 @@ aesthetics, that invites the audience to examine the information.
 [Reference](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/)
 
 This graph is an interactive gif useful for 
-educating audience about how human causes the climate change. The graph consists of all the information(human factors, natural factors, and observed temperature changes) needed to demonstrate its intended meaning that human does cause global warming. It is clearly shown that the human factors are highly correlated with the observed temperature changes. The perceptibility is good as the information displayed is easy on the human eye and brain. The caption summrizes effect of all factors on temperature and provides intuitive context for the viewers.
-It is also aestheticlly pleasing with distinctive color on a white background. The gif format catches the users eye and stimulates viewers interest to scroll down to read more. 
+educating audience about how human causes the climate change. The graph consists of all the information(human factors, natural factors, and observed temperature changes) needed to demonstrate its intended meaning that human does cause global warming. It is clearly shown that the human factors are highly correlated with the observed temperature changes. The perceptibility is good as the information displayed is easy on the human eye and brain. The caption summrizes effect of all factors on temperature and provides intuitive context for the viewers. It is also aesthetically pleasing with distinctive color on a white background. The gif format catches the users eye and stimulates viewers interest to scroll down to read more. 
 
 
 
 ![Human Cause Climate Change 2](https://github.com/jymhe120/MSIS2629_SelfStudyProject/blob/master/GlobalTemp.png)
 [Reference](https://www.carbonbrief.org/analysis-why-scientists-think-100-of-global-warming-is-due-to-humans)
 
-This graph is quite useful and informational as it clearly and accurately rerpesents the effect of both natural and human factors on observed temperature changes from 1950-2017. The graph is very intuitive for the viewrs as it consists of all the visual elements of a typical scientific graph: title, x and y axis, lines, and legends. From the graph we can clearly see that the human factors (greenhouse gases) best fit the observed dots and easily conclude that human are the major cause of the climate change. The vibrant color scheme on a plain background catches the viewers eye and engages the audience. 
+This graph is quite useful and informational as it clearly and accurately rerpesents the effect of both natural and human factors on observed temperature changes from 1950-2017. The graph is very intuitive for the viewrs as it consists of all the visual elements of a typical scientific graph: a title, x and y axis, lines, and legends. From the graph we can clearly see that the human factors (greenhouse gases) best fits the observed dots and easily conclude that human are the major cause of the climate change. The vibrant color scheme on a plain background catches the viewers eye and engages the audience. 
 
 
 
@@ -79,7 +78,7 @@ This graph is quite useful and informational as it clearly and accurately rerpes
 
 [Reference](https://climatechangeconnection.org/science/are-humans-the-cause/)
 
-This is an interesting graphics that shows the globalclimate change on every continent on land and on ocean. The worldmap on the background draws familiarity of the viewers and provide intuition of for the viewers that they are looking at the temperature change for each continent. There are seven pannel graphs, each showing the temperature anomaly from 1900 to 2000s. However, there is no legend indicating which color (blue or pink) represent the human or natural factors and the difference between the solid black lines and dotted lines.
+This is an interesting graph that shows the global climate change on every continent on land and on ocean. The world map on the background draws familiarity of the viewers and provides intuition for the viewers that they are looking at the temperature change for each continent. There are seven pannel graphs, each showing the temperature anomaly from 1900 to 2000s. However, there is no legend indicating which color (blue or pink) represents the human or natural factors and what is the difference between the solid black lines and dotted lines.
 The style and color are consistent for all pannel graphs and are thus pleasing to look at. 
 
 
@@ -87,20 +86,19 @@ The style and color are consistent for all pannel graphs and are thus pleasing t
 ![Human Cause Climate Change 4](https://github.com/jymhe120/MSIS2629_SelfStudyProject/blob/master/HumanVS.NaturalInfluence.png)
 [Reference](https://www.wri.org/blog/2017/04/climate-science-explained-10-graphics)
 
-This graph is quite useful and informational as it clearly and accurately rerpesents the effect of both natural and human factors on observed temperature changes from 1900-2000s. The graph displays all the visual elements of a typical scientific graph: title, x and y axis, lines, and legends, which is familar and intuitive for the viewers. Instead of using the best fitted line, it uses blue and green shading to show the effect of natural factors and natural and human factors on temperature change. The gap between the two shading indicates the effect of human factors on climate change. We can clear see that the natural factors alone does not change the temperature much and thus conclude that human are responsible for global warming. The low saturation of color on a plain background is eye-pleasing.
+This graph is quite useful and informational as it clearly and accurately rerpesents the effect of both natural and human factors on observed temperature changes from 1900-2000s. The graph displays all the visual elements of a typical scientific graph: a title, x and y axis, lines, and legends, which is familar and intuitive for the viewers. Instead of using the best fitted line, it uses blue and green shading to show the effect of natural factors and natural and human factors on temperature change. The gap between the two shading indicates the effect of human factors on climate change. We can clear see that the natural factors alone does not change the temperature much and thus conclude that human are responsible for global warming. The low saturation of color on a plain background is eye-pleasing.
 
 
 
 ![Human Does Not Cause Climate Change](https://github.com/jymhe120/MSIS2629_SelfStudyProject/blob/master/TempOnEarth.png)
 [Reference](http://www.realclimate.org/index.php/archives/2014/03/can-we-make-better-graphs-of-global-temperature-history/comment-page-3/)
 
-This graph is informational but overwhelming. Like the typical graph it has all the visual elements but it is multi-dimensional, with a stripe on the top labelling the historical periods and a caption at the bottom showing millions or thousands of year before present. The left x-axis is the temperature in Celsius and right x-axis is the temperature measured in Fahrenheit. Despite its overcrowding featrures, the line graph clearly demonstrates that the tempearture on earth today is not higher compared to millions of years ago. Therefore, the audience can intuitively conclude that human does not cause global warming.
-The design of this graph is quite clean. The sharp contrast between yellow and green, red and blue attracts attention of the viewers and are easy on the eye. 
+This graph is informational but overwhelming. Like the typical graph it has all the visual elements but it is multi-dimensional, with a stripe on the top labelling the historical periods and a caption at the bottom showing millions or thousands of year before present. The left x-axis is the temperature in Celsius and right x-axis is the temperature measured in Fahrenheit. Despite its overcrowding featrures, the line graph clearly demonstrates that the tempearture on earth today is not higher compared to millions of years ago. Therefore, the audience can intuitively conclude that human does not cause global warming. The design of this graph is quite clean. The sharp contrast between yellow and green, red and blue attracts attention of the viewers and are easy on the eye. 
 
 
 #### Overall Assesement and Conlusion
 
-According to the visualization framework, the first graph, Human Cause Climate Change 1, is the best one as it acheives all asepct of a effective visualization: useful, complete, perceptive, truthful, intuitive, aesthetically pleasing, and engaging. The gif format is particularily brilliant as it is engageing and memorable for the viewrers and is calling for actions.
+According to the visualization framework, the first graph, Human Cause Climate Change 1, is the best one as it acheives all asepct of an effective visualization: useful, complete, perceptive, truthful, intuitive, aesthetically pleasing, and engaging. The gif format is particularily brilliant as it is engaging and memorable for the viewrers and is calling for actions.
 
 
 ## Part II - Graph Replication
