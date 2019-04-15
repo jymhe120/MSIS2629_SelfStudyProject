@@ -100,7 +100,7 @@ According to the visualization framework, the first graph, Human Cause Climate C
 
 ## Part II - Graph Replication
 
-This is a replication of 
+This is a Tableau replication of 
 
 Ed Hawkins (2018): [Warming Stripes](http://www.climate-lab-book.ac.uk/2018/warming-stripes/). Climate Lab Book3; Data: (https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html)
 
