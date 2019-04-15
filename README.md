@@ -76,6 +76,7 @@ This graph is quite useful and informational as it clearly and accurately rerpes
 
 
 ![Human Cause Climate Change 3](https://github.com/jymhe120/MSIS2629_SelfStudyProject/blob/master/ClimateModel.png)
+
 [Reference](https://climatechangeconnection.org/science/are-humans-the-cause/)
 
 This is an interesting graphics that shows the globalclimate change on every continent on land and on ocean. The worldmap on the background draws familiarity of the viewers and provide intuition of for the viewers that they are looking at the temperature change for each continent. There are seven pannel graphs, each showing the temperature anomaly from 1900 to 2000s. However, there is no legend indicating which color (blue or pink) represent the human or natural factors and the difference between the solid black lines and dotted lines.
