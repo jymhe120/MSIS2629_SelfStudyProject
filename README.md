@@ -1,4 +1,4 @@
-# MSIS2629_SelfStudyProject
+# MSIS2629 Self Study Project
 SCU MSIS 2629 Spring Self Study Project
 
 ## Part I - Evaluate Five Visualizations of Climate Change
